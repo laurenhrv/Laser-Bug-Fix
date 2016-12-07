@@ -1,5 +1,5 @@
 # Laser-Bug-Fix
-Connecting an Arduino to Slack API using Involt. 
+Connecting an Arduino Laser-Detector to Slack API using Involt. 
 
 Step-by-Step
 First, download INVOLT from this URL:
